@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\bin\Debug\net6.0\Desafio1.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\bin\Debug\net6.0\Desafio1.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\bin\Debug\net6.0\Desafio1.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\bin\Debug\net6.0\Desafio1.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\bin\Debug\net6.0\ref\Desafio1.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\bin\Debug\net6.0\Desafio1.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\ref\Desafio1.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Desafio1\obj\Debug\net6.0\Desafio1.genruntimeconfig.cache
