@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\bin\Debug\net6.0\HO HO HO.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\bin\Debug\net6.0\HO HO HO.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\bin\Debug\net6.0\HO HO HO.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\bin\Debug\net6.0\HO HO HO.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\bin\Debug\net6.0\ref\HO HO HO.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\bin\Debug\net6.0\HO HO HO.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\ref\HO HO HO.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\HO HO HO\obj\Debug\net6.0\HO HO HO.genruntimeconfig.cache
