@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\bin\Debug\net6.0\Sequencia Logica.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\bin\Debug\net6.0\Sequencia Logica.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\bin\Debug\net6.0\Sequencia Logica.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\bin\Debug\net6.0\Sequencia Logica.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\bin\Debug\net6.0\ref\Sequencia Logica.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\bin\Debug\net6.0\Sequencia Logica.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\ref\Sequencia Logica.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Sequencia Logica\obj\Debug\net6.0\Sequencia Logica.genruntimeconfig.cache
