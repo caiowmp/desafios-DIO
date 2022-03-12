@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\bin\Debug\net6.0\Área do Circulo.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\bin\Debug\net6.0\Área do Circulo.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\bin\Debug\net6.0\Área do Circulo.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\bin\Debug\net6.0\Área do Circulo.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\bin\Debug\net6.0\ref\Área do Circulo.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\bin\Debug\net6.0\Área do Circulo.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\ref\Área do Circulo.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios Intermediarios\Área do Circulo\obj\Debug\net6.0\Área do Circulo.genruntimeconfig.cache
