@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\bin\Debug\net6.0\Tabuada.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\bin\Debug\net6.0\Tabuada.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\bin\Debug\net6.0\Tabuada.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\bin\Debug\net6.0\Tabuada.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\bin\Debug\net6.0\ref\Tabuada.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\bin\Debug\net6.0\Tabuada.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\ref\Tabuada.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Tabuada\obj\Debug\net6.0\Tabuada.genruntimeconfig.cache
