@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\bin\Debug\net6.0\Teorema da Divisão Euclidiana.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\bin\Debug\net6.0\Teorema da Divisão Euclidiana.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\bin\Debug\net6.0\Teorema da Divisão Euclidiana.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\bin\Debug\net6.0\Teorema da Divisão Euclidiana.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\bin\Debug\net6.0\ref\Teorema da Divisão Euclidiana.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\bin\Debug\net6.0\Teorema da Divisão Euclidiana.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\ref\Teorema da Divisão Euclidiana.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Teorema da Divisão Euclidiana\obj\Debug\net6.0\Teorema da Divisão Euclidiana.genruntimeconfig.cache
