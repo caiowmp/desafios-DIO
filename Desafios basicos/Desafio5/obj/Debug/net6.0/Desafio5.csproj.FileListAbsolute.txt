@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\bin\Debug\net6.0\Desafio5.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\bin\Debug\net6.0\Desafio5.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\bin\Debug\net6.0\Desafio5.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\bin\Debug\net6.0\Desafio5.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\bin\Debug\net6.0\ref\Desafio5.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\bin\Debug\net6.0\Desafio5.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\ref\Desafio5.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\Desafio5\obj\Debug\net6.0\Desafio5.genruntimeconfig.cache
