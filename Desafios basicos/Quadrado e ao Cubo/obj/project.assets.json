@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\caiow\\Documents\\Faculdade\\C#\\Programando em C# DIO\\Desafio9\\Desafio9.csproj",
-      "projectName": "Desafio9",
-      "projectPath": "C:\\Users\\caiow\\Documents\\Faculdade\\C#\\Programando em C# DIO\\Desafio9\\Desafio9.csproj",
+      "projectUniqueName": "C:\\Users\\caiow\\Documents\\Faculdade\\C#\\Programando em C# DIO\\Desafios\\Desafios basicos\\Quadrado e ao Cubo\\Quadrado e ao Cubo.csproj",
+      "projectName": "Quadrado e ao Cubo",
+      "projectPath": "C:\\Users\\caiow\\Documents\\Faculdade\\C#\\Programando em C# DIO\\Desafios\\Desafios basicos\\Quadrado e ao Cubo\\Quadrado e ao Cubo.csproj",
       "packagesPath": "C:\\Users\\caiow\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\caiow\\Documents\\Faculdade\\C#\\Programando em C# DIO\\Desafio9\\obj\\",
+      "outputPath": "C:\\Users\\caiow\\Documents\\Faculdade\\C#\\Programando em C# DIO\\Desafios\\Desafios basicos\\Quadrado e ao Cubo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\caiow\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.103\\RuntimeIdentifierGraph.json"
       }
     }
   }
