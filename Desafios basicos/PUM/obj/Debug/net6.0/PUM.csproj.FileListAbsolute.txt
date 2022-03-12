@@ -1,0 +1,15 @@
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\bin\Debug\net6.0\PUM.exe
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\bin\Debug\net6.0\PUM.deps.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\bin\Debug\net6.0\PUM.runtimeconfig.json
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\bin\Debug\net6.0\PUM.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\bin\Debug\net6.0\ref\PUM.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\bin\Debug\net6.0\PUM.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.csproj.AssemblyReference.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.AssemblyInfoInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.AssemblyInfo.cs
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.csproj.CoreCompileInputs.cache
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\ref\PUM.dll
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.pdb
+C:\Users\caiow\Documents\Faculdade\C#\Programando em C# DIO\Desafios\Desafios basicos\PUM\obj\Debug\net6.0\PUM.genruntimeconfig.cache
