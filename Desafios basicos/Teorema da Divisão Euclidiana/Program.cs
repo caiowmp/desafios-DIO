@@ -14,16 +14,7 @@ class minhaClasse {
 
             if(a < 0 && b < 0)
             {
-                if(r < 0)
-                {
-                    if(b > 0)
-                    {
-                        r = r - b;
-                    }
-                    else{
-                        r = r + b;
-                    }
-                }
+                r = q;
 
                 q = (a - r)/b;
             }
