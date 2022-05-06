@@ -2,14 +2,13 @@ let alunos = gets();
 let matricula = 0;
 
 for(var i =0;i<alunos;i++){
-  entrada = gets();
-  alunos = entrada.split(" ");
-  if(parseFloat(alunos[1])>= 8){
-    matricula = alunos[0];
-  }
+    entrada = gets().split(" ");
+    if(parseFloat(entrada[1])>= 8){
+        matricula = parseInt(entrada[0]);
+    }
 }
 
 if(matricula != 0)
- print(matricula);
+    print(matricula);
 else
-  print("Minimum note not reached")
+    print("Minimum note not reached")
