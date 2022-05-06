@@ -6,6 +6,6 @@ for(var i = 0; i<participantes; i++){
   array.push(criancas[1]);
 }
 
-const meninos = array.filter((item){ return item == 'M';}).length;
-const meninas = array.filter((item){ return item == 'F';}).length;
+const meninos = array.filter((item) => { return item == 'M';}).length;
+const meninas = array.filter((item) => { return item == 'F';}).length;
 print(`${meninos} carrinhos\n${meninas} bonecas`);
