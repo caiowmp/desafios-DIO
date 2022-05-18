@@ -1,16 +1,15 @@
 let alunos = gets();
-let matricula = 0;
-let notas = 0;
+let maior_matricula = "Minimum note not reached";
+let maior_nota = 0;
 
 for(var i =0;i<alunos;i++){
     entrada = gets().split(" ");
-    if(parseFloat(entrada[1])>= 8 && entrada[1] > notas){
-        matricula = parseInt(entrada[0]);
-        notas = parseInt(entrada[1]);
+    let matricula = parseInt(entrada[0]);
+    let nota = parseFloat(entrada[1]);
+    if(nota >= 8 && nota > maior_nota){
+        matricula_maior = matricula;
+        maior_nota = nota;
     }
 }
 
-if(matricula != 0)
-    print(matricula);
-else
-    print("Minimum note not reached");
+print(matricula);
